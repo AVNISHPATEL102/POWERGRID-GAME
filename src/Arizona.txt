@@ -1,0 +1,7 @@
+1, Santa Fe 
+2, Phoenix 
+3, San Diego 
+4, Los Angelos 
+5, Las Vegas 
+6, San Francisco 
+7, Salt Lake City 

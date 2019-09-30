@@ -1,0 +1,85 @@
+Santa Fe,Phoenix,18
+Santa Fe,Las Vegas,27
+Santa Fe,Salt Lake City,28
+Santa Fe,Denver,13
+Santa Fe,Kansas City,16
+Santa Fe,Oklahoma City,15
+Santa Fe,Dallas,16
+Santa Fe,Houston,21
+Phoenix,Las Vegas,15
+Phoenix,San Diego,14
+San Diego,Las Vegas,9
+San Diego,Los Angeles,3
+Las Vegas,Los Angeles,9
+Las Vegas,San Francisco,14
+Las Vegas,Salt Lake City,18
+Los Angeles,San Francisco,9
+Salt Lake City,San Francisco,27
+Salt Lake City,Boise,8
+Salt Lake City,Denver,21
+San Francisco,Boise,23
+San Francisco,Portland,24
+Portland,Boise,13
+Portland,Seattle,3
+Boise,Cheyenne,24
+Boise,Billings,12
+Boise,Seattle,12
+Seattle,Billings,9
+Billings,Fargo,17
+Billings,Minneapolis,18
+Cheyenne,Denver,0
+Cheyenne,Omaha,14
+Cheyenne,Minneapolis,18
+Omaha,Kansas City,5
+Omaha,Chicago,13
+Omaha,Minneapolis,8
+Fargo,Minneapolis,5
+Fargo,Duluth,6
+Duluth,Minneapolis,5
+Duluth,Chicago,12
+Duluth,Detroit,15
+Minneapolis,Chicago,8
+Chicago,Detroit,7
+Chicago,Kansas City,8
+Chicago,St. Louis,10
+Chicago,Cincinnati,7
+St. Louis,Kansas City,6
+St. Louis,Memphis,7
+St. Louis,Cincinnati,12
+St. Louis,Atlanta,12
+Cincinnati,Detroit,4
+Cincinnati,Pittsburgh,7
+Cincinnati,Knoxville,6
+Cincinnati,Raleigh,15
+Knoxville,Atlanta,5
+Kansas City,Oklahoma City,9
+Kansas City,Memphis,12
+Oklahoma City,Memphis,14
+Oklahoma City,Dallas,3
+Dallas,Memphis,12
+Dallas,Houston,5
+Dallas,New Orleans,12
+Houston,New Orleans,8
+Memphis,New Orleans,7
+Memphis,Birmingham,6
+Birmingham,Atlanta,3
+Birmingham,Jacksonville,9
+Birmingham,New Orleans,11
+New Orleans,Jacksonville,16
+Miami,Tampa,4
+Tampa,Jacksonville,4
+Jacksonville,Savannah,0
+Atlanta,Savannah,7
+Atlanta,Raleigh,7
+Savannah,Raleigh,7
+Raleigh,Norfolk,3
+Raleigh,Pittsburgh,7
+Norfolk,Washington D.C,5
+Washington D.C,Pittsburgh,6
+Washington D.C,Philadelphia,3
+Philadelphia,New York,0
+New York,Boston,3
+New York,Buffalo,8
+Buffalo,Pittsburgh,7
+Buffalo,Detroit,7
+Pittsburgh,Detroit,6
