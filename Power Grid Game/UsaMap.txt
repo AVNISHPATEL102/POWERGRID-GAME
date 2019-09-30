@@ -1,0 +1,42 @@
+0, Santa Fe 
+1, Phoenix 
+2, San Diego 
+3, Los Angelos 
+4, Las Vegas 
+5, San Francisco 
+6, Salt Lake City 
+7, Denver
+8, Cheyenne
+9, Boise
+10, Portland
+11, Seattle
+12, Billings
+13, Omaha
+14, Fargo
+15, Duluth
+16, Minneapolis
+17, Chicago
+18, St. Louis
+19, Cincinnati
+20, Knoxville
+21, Kansas City
+22, Oklahoma City
+23, Memphis
+24, Dallas
+25, Houston
+26, New Orleans
+27, Birmingham
+28, Atlanta
+29, Miami
+30, Tampa
+31, Jacksonville
+32, Savannah
+33, Raleigh
+34, Norfolk
+35, Washington D.C.
+36, Philadelphia
+37, New York
+38, Boston
+39, Pittsburgh
+40, Buffalo
+41, Detroit
