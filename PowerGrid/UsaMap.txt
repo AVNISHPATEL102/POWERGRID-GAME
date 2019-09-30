@@ -1,0 +1,83 @@
+Santa Fe:Houston-Dallas-Oklahoma City-Kansas City-Denver-Salt Lake City-Las Vegas-Phoenix
+Phoenix:Las Vegas-San Diego-Santa Fe
+San Diego:Las Vegas-Los Angelos-Phoenix
+Los Angelos:San Francisco-Las Vegas-San Diego
+Las Vegas:Salt Lake City-San Francisco-Los Angelos-San Diego-Phoenix-Santa Fe
+San Francisco:Portland-Boise-Salt Lake City-Las Vegas-Los Angelos
+Salt Lake City:Boise-Denver-San Francisco-Las Vegas-Santa Fe
+Denver:Kansas City-Salt Lake City-Santa Fe
+Cheyenne:Minneapolis-Omaha-Billings-Boise
+Boise:Billings-Seattle-Portland-Cheyenne-Salt Lake City-San Francisco
+Portland:Seattle-Boise-San Francisco
+Seattle:Billings-Portland-Boise
+Billings:Minneapolis-Fargo-Seattle-Boise-Cheyenne
+Omaha:Kansas City-Chicago-Minneapolis-Cheyenne
+Fargo:Minneapolis-Duluth-Billings
+Duluth:Detroit-Minneapolis-Fargo
+Minneapolis:Chicago-Duluth-Fargo-Omaha-Billings-Cheyenne
+Chicago:Detroit-Kansas City-Cincinnati-St. Louis-Minneapolis-Omaha
+St. Louis:Atlanta-Memphis-Kansas City-Cincinnati-Chicago
+Cincinnati:Detroit-Pittsburgh-Knoxville-St. Louis-Chicago
+Knoxville:Atlanta-Cincinnati
+Kansas City:Memphis-Oklahoma City-St. Louis-Chicago-Omaha-Denver-Santa Fe
+Oklahoma City:Dallas-Memphis-Kansas City-Santa Fe
+Memphis:Birmingham-New Orleans-Dallas-Oklahoma City-Kansas City-St. Louis
+Dallas:New Orleans-Houston-Memphis-Oklahoma City-Santa Fe
+Houston:New Orleans-Dallas-Santa Fe
+New Orleans:Jacksonville-Houston-Dallas-Memphis
+Birmingham:Jacksonville-Atlanta-Memphis
+Atlanta:Raleigh-Savannah-Birmingham-Knoxville-St. Louis
+Miami:Tampa
+Tampa:Jacksonville-Miami
+Jacksonville:Savannah-Tampa-Birmingham-New Orleans
+Savannah:Raleigh-Jacksonville-Atlanta
+Raleigh:Pittsburgh-Norfolk-Savannah-Atlanta
+Norfolk:Washington D.C.-Raleigh
+Washington D.C.:Pittsburgh-Philadelphia-Norfolk
+Philadelphia:New York-Washington D.C.
+New York:Buffalo-Boston-Philadelphia
+Boston:Detroit-Buffalo-New York
+Pittsburgh:Washington D.C.-Raleigh-Cincinnati
+Buffalo:Detroit-Boston-New York
+Detroit:Buffalo-Boston-Cincinnati-Chicago-Duluth
+Detroit:New York
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

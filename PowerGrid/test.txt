@@ -1,0 +1,5 @@
+Santa Fe:Ls Vegas-Miami
+Los Vegas:NY
+NY:Santa Fe
+Miami:Los Vegas
+Memphis:Miami
